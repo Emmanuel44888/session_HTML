@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\initio\\Initio"
+		},
+		{
+			"name": "startbootstrap-grayscale",
+			"path": "..\\Portfolio\\startbootstrap-grayscale"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "session_HTML"
+	}
+}
